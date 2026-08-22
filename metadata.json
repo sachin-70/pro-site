@@ -1,0 +1,6 @@
+{
+  "name": "ALCHOSTING Hub",
+  "description": "ALCHOSTING - Advanced portal for Termux commands, Android apps, tech news, blogs, photo gallery, links, and secure Admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
